@@ -1,2 +1,2 @@
-# issues
-Report SquidMC issues/suggestions here.
+# SquidMC Issues
+Report issues / bugs or send us feedback / suggestions here.
